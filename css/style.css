@@ -1,7 +1,7 @@
 body{
 	display: inline-block;
 	padding: 40px;
-}
+	}
 .display-inline-block{
 	display: inline-block;
 }
@@ -30,4 +30,36 @@ body{
 }
 .container{
 	margin-top: 100px;
+	padding: 10px;
+}
+.box1{
+	background-color: #FCEE21;
+	padding: 23px;
+	float: left;
+	margin-right: 20px;
+}
+.box2{
+	background-color: #FCEE21;
+	padding: 23px;
+	float: right;
+}
+.p1{
+	width: 390px;
+	float: left;
+}
+.p2{
+	width: 380px;
+}
+.banner{
+	width: 150px;
+}
+.icon{
+	width: 150px;
+}
+.block1{
+	float: right;
+	vertical-align: top;
+}
+.block3{
+	vertical-align: top;
 }

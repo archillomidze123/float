@@ -12,9 +12,22 @@ body{
 	padding: 30px;
 	background-color: #22B573;
 }
+.navigation{
+	float: right;
+}
 .logo{
 	height: 100px;
+	vertical-align: top;
+	float: right;
+}
+.clear{
+	clear: both;
 }
 .navigation-a{
 	color: #FFFFFF;
+	font-size: 36px;
+	margin-right: 45px;
+}
+.container{
+	margin-top: 100px;
 }

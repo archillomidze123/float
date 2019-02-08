@@ -61,5 +61,8 @@ body{
 	vertical-align: top;
 }
 .block3{
-	vertical-align: top;
+	vertical-align: bottom;
+}
+.p12{
+	margin-top: 10px;
 }

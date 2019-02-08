@@ -10,4 +10,11 @@ body{
 	border-style: solid;
 	border-color:  #006837;
 	padding: 30px;
+	background-color: #22B573;
+}
+.logo{
+	height: 100px;
+}
+.navigation-a{
+	color: #FFFFFF;
 }

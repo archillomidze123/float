@@ -3,7 +3,7 @@ body{
 	padding: 40px;
 	}
 .float{
-	margin-left: 550px;
+	margin-left: 600px;
 }
 .display-inline-block{
 	display: inline-block;
@@ -30,6 +30,7 @@ body{
 	color: #FFFFFF;
 	font-size: 36px;
 	margin-right: 45px;
+    font-family: 'Nunito Sans', sans-serif;
 }
 .container{
 	margin-top: 100px;
@@ -55,6 +56,7 @@ body{
 }
 .p2{
 	width: 380px;
+	color: #006837;
 }
 .p3{
 	margin-top: 20px;
@@ -79,4 +81,10 @@ body{
 }
 .p12{
 	margin-top: 30px;
+}
+.p4{
+	color: #006837;
+}
+p{
+	font-family: 'Nunito Sans', sans-serif;
 }

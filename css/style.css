@@ -88,3 +88,27 @@
 p{
 	font-family: 'Nunito Sans', sans-serif;
 }
+.fb{
+	height: 30px;
+	margin-right: 5px;
+}
+.yt{
+	height: 30px;
+	margin-left: 5px;
+}
+.yt::before{
+	content: "hm";
+	background-color: blue;
+	height: 30px;
+	width: 5px;
+}
+.stick{
+	content: "vaa";
+	background-color: blue;
+	height: 30px;
+	width: 2px;
+	display: inline-block;
+}	
+.footer{
+	margin-top: 20px;
+}

@@ -54,6 +54,7 @@
 	width: 390px;
 	float: left;
 	color: red;
+	font-size: 20px;
 }
 .p2{
 	width: 380px;
@@ -93,22 +94,24 @@ p{
 	height: 30px;
 	margin-right: 5px;
 }
-.yt{
+.fb1{
 	height: 30px;
 	margin-left: 5px;
+	float: right;
 }
-.yt::before{
+/*.yt::before{
 	content: "hm";
 	background-color: blue;
 	height: 30px;
 	width: 5px;
-}
+}*/
 .stick{
 	content: "vaa";
 	background-color: blue;
 	height: 30px;
 	width: 2px;
 	display: inline-block;
+	margin-left: 650px;
 }	
 .footer{
 	margin-top: 20px;

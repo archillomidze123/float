@@ -1,5 +1,4 @@
-body{
-	display: inline-block;
+.main-container{
 	padding: 40px;
 	}
 .float{
@@ -49,6 +48,7 @@ body{
 	padding: 23px;
 	float: right;
 	height: 300px;
+	/*width: 300px;*/
 }
 .p1{
 	width: 390px;
